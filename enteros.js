@@ -8,4 +8,4 @@ function resta(a,b) {
     return a-b
 }
 
-export {numerosEnteros, suma}
+export {numerosEnteros, suma,resta}
