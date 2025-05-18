@@ -11,7 +11,7 @@ app.listen(3000, () => {
 
 }); 
 
-app.get('/sumar', (req, res) => { 
+app.get('/', (req, res) => { 
 
     res.send(); 
   
